@@ -8,9 +8,9 @@ Backend Engineer focused on reliable automation and practical product delivery.
 
 ## About
 
-실무에서 바로 동작하는 백엔드와 자동화 파이프라인을 설계하고 운영합니다.  
-복잡한 요구사항은 작은 단위로 분해해서 안정적으로 배포 가능한 형태로 바꾸는 데 강점이 있습니다.  
-문서화와 커뮤니케이션을 통해 팀이 빠르게 합의하고 반복 속도를 높이는 방식을 선호합니다.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.  
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
 
 ## Metrics
 
