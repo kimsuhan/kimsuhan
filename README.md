@@ -25,15 +25,16 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
 ### Latest Activity Snapshot
 
 <!--LATEST_ACTIVITY:START-->
-- Last updated: 2026-03-24 01:59 UTC
-- Recent public events (last 100): Push 49, PR 20, Issues 0
+- Last updated: 2026-03-25 01:59 UTC
+- Recent public events (last 100): Push 47, PR 24, Issues 0
 - Recently active repositories:
+  - [kimsuhan/bottleneck](https://github.com/kimsuhan/bottleneck)
+  - [kimsuhan/two-line](https://github.com/kimsuhan/two-line)
+  - [SGrondin/bottleneck](https://github.com/SGrondin/bottleneck)
   - [HKUDS/ClawTeam](https://github.com/HKUDS/ClawTeam)
   - [kimsuhan/codex-monorep-template](https://github.com/kimsuhan/codex-monorep-template)
-  - [kimsuhan/zsh-function](https://github.com/kimsuhan/zsh-function)
-  - [kimsuhan/two-line](https://github.com/kimsuhan/two-line)
-  - [kimsuhan/skills-trending-monitor](https://github.com/kimsuhan/skills-trending-monitor)
 <!--LATEST_ACTIVITY:END-->
+
 
 
 
