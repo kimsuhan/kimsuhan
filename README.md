@@ -7,7 +7,7 @@ Backend Engineer focused on reliable automation and practical product delivery.
 [![Focus: API Design](https://img.shields.io/badge/Focus-API%20Design-0E7490?style=flat-square)](https://github.com/kimsuhan)
 
 
-![Github Genesis Card](https://gh-genesis-card.dujul.com/card?username=kimsuhan&animation=true)
+![Github Genesis Card](https://gh-genesis-card.dujul.com/card?username=kimsuhan&animation=true&v=2)
 
 
 ## About
