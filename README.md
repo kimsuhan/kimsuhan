@@ -2,7 +2,7 @@
 
 Backend Engineer focused on reliable automation and practical product delivery.
 
-![Github Genesis Card](https://gh-genesis-card.dujul.com/card?username=kimsuhan&animation=true&v=2)
+![Github Genesis Card](https://gh-genesis-card.kimsuhan.com/card?username=kimsuhan&animation=true&v=2)
 
 [![Role: Backend Engineer](https://img.shields.io/badge/Role-Backend%20Engineer-0B3D91?style=flat-square&logo=github)](https://github.com/kimsuhan)
 [![Focus: Automation](https://img.shields.io/badge/Focus-Automation-0891B2?style=flat-square)](https://github.com/kimsuhan)
