@@ -28,14 +28,13 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
 ### Latest Activity Snapshot
 
 <!--LATEST_ACTIVITY:START-->
-- Last updated: 2026-05-26 02:00 UTC
-- Recent public events (last 100): Push 30, PR 0, Issues 0
+- Last updated: 2026-05-27 02:01 UTC
+- Recent public events (last 100): Push 25, PR 0, Issues 0
 - Recently active repositories:
   - [kimsuhan/blog](https://github.com/kimsuhan/blog)
   - [kimsuhan/github-genesis-card](https://github.com/kimsuhan/github-genesis-card)
-  - [kimsuhan/kimsuhan](https://github.com/kimsuhan/kimsuhan)
-  - [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria)
 <!--LATEST_ACTIVITY:END-->
+
 
 
 
