@@ -28,15 +28,16 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
 ### Latest Activity Snapshot
 
 <!--LATEST_ACTIVITY:START-->
-- Last updated: 2026-06-21 02:05 UTC
-- Recent public events (last 100): Push 9, PR 0, Issues 0
+- Last updated: 2026-06-22 02:08 UTC
+- Recent public events (last 100): Push 13, PR 0, Issues 0
 - Recently active repositories:
+  - [kimsuhan/filterblade-ko-extension](https://github.com/kimsuhan/filterblade-ko-extension)
   - [kimsuhan/rejected-draft-korean-translator](https://github.com/kimsuhan/rejected-draft-korean-translator)
   - [harehare/mq](https://github.com/harehare/mq)
   - [epoko77-ai/im-not-ai](https://github.com/epoko77-ai/im-not-ai)
   - [kimsuhan/sto-guide](https://github.com/kimsuhan/sto-guide)
-  - [kimsuhan/aws-tunnel-snap](https://github.com/kimsuhan/aws-tunnel-snap)
 <!--LATEST_ACTIVITY:END-->
+
 
 
 
