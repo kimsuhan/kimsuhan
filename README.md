@@ -28,15 +28,15 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
 ### Latest Activity Snapshot
 
 <!--LATEST_ACTIVITY:START-->
-- Last updated: 2026-07-19 04:38 UTC
-- Recent public events (last 100): Push 45, PR 10, Issues 2
+- Last updated: 2026-07-20 04:54 UTC
+- Recent public events (last 100): Push 50, PR 15, Issues 2
 - Recently active repositories:
   - [kimsuhan/rivet](https://github.com/kimsuhan/rivet)
   - [kimsuhan/company_workspace](https://github.com/kimsuhan/company_workspace)
   - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
   - [kimsuhan/filterblade-ko-extension](https://github.com/kimsuhan/filterblade-ko-extension)
-  - [kimsuhan/rejected-draft-korean-translator](https://github.com/kimsuhan/rejected-draft-korean-translator)
 <!--LATEST_ACTIVITY:END-->
+
 
 
 
