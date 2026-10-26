@@ -28,15 +28,16 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
 ### Latest Activity Snapshot
 
 <!--LATEST_ACTIVITY:START-->
-- Last updated: 2026-10-25 06:12 UTC
+- Last updated: 2026-10-26 06:20 UTC
 - Recent public events (last 100): Push 0, PR 0, Issues 0
 - Recently active repositories:
+  - [kimd0/OpenCW](https://github.com/kimd0/OpenCW)
   - [yuchanghyun/cmarks](https://github.com/yuchanghyun/cmarks)
   - [tw93/Mole](https://github.com/tw93/Mole)
   - [bohe76/korea-transit-planner-skill](https://github.com/bohe76/korea-transit-planner-skill)
   - [Hybirdss/Hycli](https://github.com/Hybirdss/Hycli)
-  - [devswha/ovis](https://github.com/devswha/ovis)
 <!--LATEST_ACTIVITY:END-->
+
 
 
 
