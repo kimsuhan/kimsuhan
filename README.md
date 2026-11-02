@@ -28,15 +28,16 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
 ### Latest Activity Snapshot
 
 <!--LATEST_ACTIVITY:START-->
-- Last updated: 2026-11-01 07:36 UTC
+- Last updated: 2026-11-02 07:43 UTC
 - Recent public events (last 100): Push 0, PR 0, Issues 0
 - Recently active repositories:
+  - [rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes)
   - [tungnguyenvan/tabula](https://github.com/tungnguyenvan/tabula)
   - [kimd0/OpenCW](https://github.com/kimd0/OpenCW)
   - [yuchanghyun/cmarks](https://github.com/yuchanghyun/cmarks)
   - [tw93/Mole](https://github.com/tw93/Mole)
-  - [bohe76/korea-transit-planner-skill](https://github.com/bohe76/korea-transit-planner-skill)
 <!--LATEST_ACTIVITY:END-->
+
 
 
 
