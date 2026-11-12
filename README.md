@@ -28,15 +28,16 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
 ### Latest Activity Snapshot
 
 <!--LATEST_ACTIVITY:START-->
-- Last updated: 2026-11-11 07:46 UTC
-- Recent public events (last 100): Push 0, PR 0, Issues 0
+- Last updated: 2026-11-12 08:23 UTC
+- Recent public events (last 100): Push 5, PR 0, Issues 1
 - Recently active repositories:
   - [kimsuhan/herdr-worktree-hook](https://github.com/kimsuhan/herdr-worktree-hook)
+  - [kimsuhan/linear-korean-extension](https://github.com/kimsuhan/linear-korean-extension)
+  - [kimsuhan/herdr-scheduler](https://github.com/kimsuhan/herdr-scheduler)
   - [rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes)
   - [tungnguyenvan/tabula](https://github.com/tungnguyenvan/tabula)
-  - [kimd0/OpenCW](https://github.com/kimd0/OpenCW)
-  - [yuchanghyun/cmarks](https://github.com/yuchanghyun/cmarks)
 <!--LATEST_ACTIVITY:END-->
+
 
 
 
