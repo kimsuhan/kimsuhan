@@ -28,15 +28,16 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
 ### Latest Activity Snapshot
 
 <!--LATEST_ACTIVITY:START-->
-- Last updated: 2026-11-19 08:51 UTC
+- Last updated: 2026-11-20 08:37 UTC
 - Recent public events (last 100): Push 24, PR 0, Issues 2
 - Recently active repositories:
-  - [leonasdev/copy-buttons](https://github.com/leonasdev/copy-buttons)
   - [kimsuhan/herdr-scheduler](https://github.com/kimsuhan/herdr-scheduler)
+  - [leonasdev/copy-buttons](https://github.com/leonasdev/copy-buttons)
   - [kimsuhan/herdr-worktree-hook](https://github.com/kimsuhan/herdr-worktree-hook)
   - [we-promise/sure](https://github.com/we-promise/sure)
   - [kimsuhan/linear-korean-extension](https://github.com/kimsuhan/linear-korean-extension)
 <!--LATEST_ACTIVITY:END-->
+
 
 
 
